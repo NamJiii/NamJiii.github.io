@@ -1,25 +1,7 @@
 var store = [{
-        "title": "[포스팅 예시] 이곳에 제목을 입력하세요",
-        "excerpt":"🦥 본문   본문은 여기에 …  ","categories": ["Categories1"],
-        "tags": ["tag1","tag2"],
-        "url": "/categories1/post-name-here/",
-        "teaser": null
-      },{
-        "title": "[포스팅 예시] 이곳에 제목을 입력하세요",
-        "excerpt":"🦥 본문   본문은 여기에 …  ","categories": ["Categories2"],
-        "tags": ["tag1","tag2"],
-        "url": "/categories2/post-name-here-2/",
-        "teaser": null
-      },{
-        "title": "[포스팅 예시] 이곳에 제목을 입력하세요",
-        "excerpt":"🦥 본문   본문은 여기에 …  ","categories": ["Categories3"],
-        "tags": ["tag1","tag2"],
-        "url": "/categories3/post-name-here-3/",
-        "teaser": null
-      },{
-        "title": "[포스팅 예시] 이곳에 제목을 입력하세요",
-        "excerpt":"🦥 본문   본문은 여기에 …  ","categories": ["Categories4"],
-        "tags": ["tag1","tag2"],
-        "url": "/categories4/post-name-here-4/",
+        "title": "[DWR]260825",
+        "excerpt":"Summary      Done: 0T   Weekly: 40 / 100T   Focus: 0h 00m   Work: 0h 00m   Done      [0T] Task   [0T] Task   [0T] Task   Next      [0T] Task   [0T] Task   Issues      None   Note   -  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/260825/",
         "teaser": null
       }]
