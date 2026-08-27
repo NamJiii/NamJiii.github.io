@@ -11,7 +11,7 @@ var store = [{
         "url": "/dailyscrum/260826/",
         "teaser": null
       },{
-        "title": "[DWR]260826",
+        "title": "[DWR]260827",
         "excerpt":"Summary Done: 16T Weekly: 75 / 80T Focus: -h –m Work: -h -m Done [4T] Daily Routine — triage, planning, updates &amp; admin [2T] SPL 실험 진행상황 체크 이슈 발생시 대응 [4T] 자기개발 (CHM0) [6T] AX스터디 - 체계, 데이터 등 Next [4T] Daily Routine — triage, planning, updates &amp; admin...","categories": ["Dailyscrum"],
         "tags": [],
         "url": "/dailyscrum/260827/",
