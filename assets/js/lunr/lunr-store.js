@@ -40,4 +40,10 @@ var store = [{
         "tags": [],
         "url": "/dailyscrum/260902/",
         "teaser": null
+      },{
+        "title": "[DWR]260903",
+        "excerpt":"Summary Done: 16T Weekly: 66 / 80T Focus: -h –m Work: -h -m Done [4T] Daily Routine — triage, planning, updates &amp; admin [10T] SPL 마이너 리비전 재제출 버전 초본 완료 [2T] 재개발 스터디 - 주요개념 정리 Next [4T] Daily Routine — triage, planning, updates &amp; admin [8T] SPL 마이너...","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/260903/",
+        "teaser": null
       }]
