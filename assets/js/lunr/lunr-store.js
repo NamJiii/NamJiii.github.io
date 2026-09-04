@@ -46,4 +46,10 @@ var store = [{
         "tags": [],
         "url": "/dailyscrum/260903/",
         "teaser": null
+      },{
+        "title": "[DWR]260904",
+        "excerpt":"Summary Done: 18T Weekly: 84 / 80T Focus: -h –m Work: -h -m Done [4T] Daily Routine — triage, planning, updates &amp; admin [6T] 자기개발(CAM1) [8T] 재개발 스터디 - 임장 Next [4T] Daily Routine — triage, planning, updates &amp; admin [8T] SPL 마이너 리비전 제출 [2T] 재개발 스터디 - 주요개념...","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/260904/",
+        "teaser": null
       }]
