@@ -58,4 +58,10 @@ var store = [{
         "tags": [],
         "url": "/dailyscrum/260907/",
         "teaser": null
+      },{
+        "title": "[DWR]260908",
+        "excerpt":"Summary Done: 24T Weekly: 48 / 80T Focus: -h –m Work: -h -m Done [4T] Daily Routine — triage, planning, updates &amp; admin [10T] 자기개발(CHB1) [10T] 자기개발(CLI1) Next [4T] Daily Routine — triage, planning, updates &amp; admin [2T] 재개발 스터디 - 주요개념 정리 [6T] 재개발 스터디 - 가치산정 방식 명확화...","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/260908/",
+        "teaser": null
       }]
