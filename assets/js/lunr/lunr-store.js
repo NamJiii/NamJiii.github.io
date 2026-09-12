@@ -82,4 +82,10 @@ var store = [{
         "tags": [],
         "url": "/dailyscrum/260911/",
         "teaser": null
+      },{
+        "title": "[DWR]260912",
+        "excerpt":"Summary      Done: 20T   Weekly: 132 / 80T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [16T] 자기개발(CHM1)   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   [2T] 재개발 스터디 - 주요개념 정리   [6T] 재개발 스터디 - 가치산정 방식 명확화   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/260912/",
+        "teaser": null
       }]
