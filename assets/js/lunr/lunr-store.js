@@ -125,9 +125,15 @@ var store = [{
         "url": "/dailyscrum/260918/",
         "teaser": null
       },{
-        "title": "[DWR]260918",
+        "title": "[DWR]260919",
         "excerpt":"Summary Done: 20T Weekly: 112 / 80T Focus: -h –m Work: -h -m Done [4T] Daily Routine — triage, planning, updates &amp; admin [8T] 자기개발(CCC1) [8T] 자기개발(CHS1) Next [4T] Daily Routine — triage, planning, updates &amp; admin [2T] 재개발 스터디 - 주요개념 정리 [6T] 재개발 스터디 - 가치산정 방식 명확화...","categories": ["Dailyscrum"],
         "tags": [],
         "url": "/dailyscrum/260919/",
+        "teaser": null
+      },{
+        "title": "[DWR]260920",
+        "excerpt":"Summary Done: 16T Weekly: 128 / 80T Focus: -h –m Work: -h -m Done [4T] Daily Routine — triage, planning, updates &amp; admin [6T] 자기개발(CKA1) [6T] 자기개발(CHS1) Next [4T] Daily Routine — triage, planning, updates &amp; admin [2T] 재개발 스터디 - 주요개념 정리 [6T] 재개발 스터디 - 가치산정 방식 명확화...","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/260920/",
         "teaser": null
       }]
