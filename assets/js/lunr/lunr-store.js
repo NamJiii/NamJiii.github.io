@@ -138,8 +138,20 @@ var store = [{
         "teaser": null
       },{
         "title": "[DWR]260921",
-        "excerpt":"Summary Done: 18T Weekly: 18 / 80T Focus: -h –m Work: -h -m Done [4T] Daily Routine — triage, planning, updates &amp; admin [4T] 자기개발(CNB2) [10T] 자기개발(CHK1) Next [4T] Daily Routine — triage, planning, updates &amp; admin [2T] 재개발 스터디 - 주요개념 정리 [6T] 재개발 스터디 - 가치산정 방식 명확화...","categories": ["Dailyscrum"],
+        "excerpt":"Summary Done: 18T Weekly: 18 / 48T Focus: -h –m Work: -h -m Done [4T] Daily Routine — triage, planning, updates &amp; admin [4T] 자기개발(CNB2) [10T] 자기개발(CHK1) Next [4T] Daily Routine — triage, planning, updates &amp; admin [2T] 재개발 스터디 - 주요개념 정리 [6T] 재개발 스터디 - 가치산정 방식 명확화...","categories": ["Dailyscrum"],
         "tags": [],
         "url": "/dailyscrum/260921/",
+        "teaser": null
+      },{
+        "title": "[DWR]260922",
+        "excerpt":"Summary      Done: 18T   Weekly: 36 / 48T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [4T] 재개발 스터디 - 주요개념 정리   [10T] 자기개발(CHK1)   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   [6T] 재개발 스터디 - 가치산정 방식 명확화   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/260922/",
+        "teaser": null
+      },{
+        "title": "[DWR]260923",
+        "excerpt":"Summary      Done: 12T   Weekly: 48 / 48T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [8T] 자기개발(CHK1)   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   [6T] 재개발 스터디 - 가치산정 방식 명확화   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/260923/",
         "teaser": null
       }]
