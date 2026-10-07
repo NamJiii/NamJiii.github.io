@@ -166,4 +166,10 @@ var store = [{
         "tags": [],
         "url": "/dailyscrum/260930/",
         "teaser": null
+      },{
+        "title": "[DWR]2601007",
+        "excerpt":"Summary      Done: 16T   Weekly: 32 / 64T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [4T] 구직인정신청 및 승인 확인   [6T] 자기개발(CLC2)   [2T] 자기개발(CHM2)   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/260930/",
+        "teaser": null
       }]
