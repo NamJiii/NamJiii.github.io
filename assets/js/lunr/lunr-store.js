@@ -170,6 +170,12 @@ var store = [{
         "title": "[DWR]2601007",
         "excerpt":"Summary      Done: 16T   Weekly: 32 / 64T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [4T] 구직인정신청 및 승인 확인   [6T] 자기개발(CLC2)   [2T] 자기개발(CHM2)   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
         "tags": [],
-        "url": "/dailyscrum/260930/",
+        "url": "/dailyscrum/261007/",
+        "teaser": null
+      },{
+        "title": "[DWR]2601008",
+        "excerpt":"Summary Done: 22T Weekly: 54 / 64T Focus: -h –m Work: -h -m Done [4T] Daily Routine — triage, planning, updates &amp; admin [2T] LGCNS 인적성 환경 확인 [2T] LGCNS 유형검토 (AI활용능력) [4T] 코테 핵심유형 파악 [4T] 적성 핵심유형 파악 [6T] 이머징 학습 Next [4T] Daily Routine — triage, planning,...","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/261008/",
         "teaser": null
       }]
