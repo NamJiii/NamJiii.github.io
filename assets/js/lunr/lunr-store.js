@@ -167,6 +167,24 @@ var store = [{
         "url": "/dailyscrum/260930/",
         "teaser": null
       },{
+        "title": "[DWR]2601001",
+        "excerpt":"Summary      Done: 16T   Weekly: 56 / 64T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [12T] 자기개발(CHM2)   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/261001/",
+        "teaser": null
+      },{
+        "title": "[DWR]2601002",
+        "excerpt":"Summary      Done: 16T   Weekly: 72 / 64T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [12T] 자기개발(CHM2)   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/261002/",
+        "teaser": null
+      },{
+        "title": "[DWR]2601006",
+        "excerpt":"Summary      Done: 16T   Weekly: 16 / 64T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [12T] 자기개발(CPD2)   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/261006/",
+        "teaser": null
+      },{
         "title": "[DWR]2601007",
         "excerpt":"Summary      Done: 16T   Weekly: 32 / 64T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [4T] 구직인정신청 및 승인 확인   [6T] 자기개발(CLC2)   [2T] 자기개발(CHM2)   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
         "tags": [],
@@ -177,5 +195,23 @@ var store = [{
         "excerpt":"Summary Done: 22T Weekly: 54 / 64T Focus: -h –m Work: -h -m Done [4T] Daily Routine — triage, planning, updates &amp; admin [2T] LGCNS 인적성 환경 확인 [2T] LGCNS 유형검토 (AI활용능력) [4T] 코테 핵심유형 파악 [4T] 적성 핵심유형 파악 [6T] 이머징 학습 Next [4T] Daily Routine — triage, planning,...","categories": ["Dailyscrum"],
         "tags": [],
         "url": "/dailyscrum/261008/",
+        "teaser": null
+      },{
+        "title": "[DWR]2601009",
+        "excerpt":"Summary      Done: 22T   Weekly: 76 / 64T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [10T] 자기개발(CLC2)   [8T] 자기개발(알고리즘 학습)   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/261009/",
+        "teaser": null
+      },{
+        "title": "[DWR]2601010",
+        "excerpt":"Summary      Done: 18T   Weekly: 94 / 64T   Focus: -h –m   Work: -h -m   Done      [5T] 자기개발(CPD2)   [13T] 자기개발(CHM2)   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/261010/",
+        "teaser": null
+      },{
+        "title": "[DWR]2601011",
+        "excerpt":"Summary      Done: 12T   Weekly: 88 / 64T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [8T] 자기개발(CHV1)   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/261011/",
         "teaser": null
       }]
