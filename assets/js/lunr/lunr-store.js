@@ -214,4 +214,10 @@ var store = [{
         "tags": [],
         "url": "/dailyscrum/261011/",
         "teaser": null
+      },{
+        "title": "[DWR]2601012",
+        "excerpt":"Summary      Done: 20T   Weekly: 20 / 80T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [8T] 자기개발(CHA1)   [8T] 대지지분 가격산정 웹 - 구상   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/261012/",
+        "teaser": null
       }]
