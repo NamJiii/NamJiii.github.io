@@ -192,7 +192,7 @@ var store = [{
         "teaser": null
       },{
         "title": "[DWR]2601008",
-        "excerpt":"Summary Done: 22T Weekly: 54 / 64T Focus: -h –m Work: -h -m Done [4T] Daily Routine — triage, planning, updates &amp; admin [2T] LGCNS 인적성 환경 확인 [2T] LGCNS 유형검토 (AI활용능력) [4T] 코테 핵심유형 파악 [4T] 적성 핵심유형 파악 [6T] 이머징 학습 Next [4T] Daily Routine — triage, planning,...","categories": ["Dailyscrum"],
+        "excerpt":"Summary Done: 22T Weekly: 54 / 64T Focus: -h –m Work: -h -m Done [4T] Daily Routine — triage, planning, updates &amp; admin [2T] LC 환경 확인 [2T] 유형검토 (AI활용능력) [4T] 코테 핵심유형 파악 [4T] 적성 핵심유형 파악 [6T] 이머징 학습 Next [4T] Daily Routine — triage, planning, updates &amp;...","categories": ["Dailyscrum"],
         "tags": [],
         "url": "/dailyscrum/261008/",
         "teaser": null
@@ -219,5 +219,23 @@ var store = [{
         "excerpt":"Summary      Done: 20T   Weekly: 20 / 80T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [8T] 자기개발(CHA1)   [8T] 대지지분 가격산정 웹 - 구상   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
         "tags": [],
         "url": "/dailyscrum/261012/",
+        "teaser": null
+      },{
+        "title": "[DWR]2601013",
+        "excerpt":"Summary      Done: 16T   Weekly: 36 / 80T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [12T] 대지지분 가격산정 웹 - 개발   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/261013/",
+        "teaser": null
+      },{
+        "title": "[DWR]2601014",
+        "excerpt":"Summary      Done: 16T   Weekly: 52 / 80T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [12T] 대지지분 가격산정 웹 - 개발   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/261014/",
+        "teaser": null
+      },{
+        "title": "[DWR]2601015",
+        "excerpt":"Summary      Done: 16T   Weekly: 68 / 80T   Focus: -h –m   Work: -h -m   Done      [4T] Daily Routine — triage, planning, updates &amp; admin   [4T] 자기개발(CHM3)   [8T] 대지지분 가격산정 - page 2   Next      [4T] Daily Routine — triage, planning, updates &amp; admin   Note  ","categories": ["Dailyscrum"],
+        "tags": [],
+        "url": "/dailyscrum/261015/",
         "teaser": null
       }]
